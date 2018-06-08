@@ -11,6 +11,7 @@ import Foundation
 var a: Int = 0
 var n: Int
 n = 1
+
 repeat {
 if n % 3 == 0 {
     a = a + n
